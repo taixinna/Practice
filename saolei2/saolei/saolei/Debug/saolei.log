@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/9/29 星期六 16:56:26。
+     1>项目“C:\Users\Administrator\Desktop\study\数组：扫雷\saolei2\saolei\saolei\saolei.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt game.c test.c
+         test.c
+         game.c
+     1>c:\users\administrator\desktop\study\数组：扫雷\saolei2\saolei\saolei\game.c(135): warning C4029: 声明的形参表不同于定义
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\study\数组：扫雷\saolei2\saolei\Debug\saolei.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\study\数组：扫雷\saolei2\saolei\Debug\saolei.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\study\数组：扫雷\saolei2\saolei\Debug\saolei.lib" /MACHINE:X86 Debug\game.obj
+         Debug\test.obj
+         saolei.vcxproj -> C:\Users\Administrator\Desktop\study\数组：扫雷\saolei2\saolei\Debug\saolei.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\study\数组：扫雷\saolei2\saolei\saolei\saolei.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.94
